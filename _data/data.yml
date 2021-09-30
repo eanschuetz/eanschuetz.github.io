@@ -79,17 +79,17 @@ publications:
         authors: <b>E.R. Anschuetz</b>
         conference: "arxiv:2109.06957 [quant-ph]"
 
-      - title: Enhancing generative models via quantum correlations
+      - title: Enhancing Generative Models via Quantum Correlations
         link: "https://arxiv.org/abs/2101.08354"
         authors: X. Gao, <b>E.R. Anschuetz</b>, S.-T. Wang, J.I. Cirac, M.D. Lukin
         conference: "arxiv:2101.08354 [quant-ph]"
 
-      - title: Coreset clustering on small quantum computers
+      - title: Coreset Clustering on Small Quantum Computers
         link: "https://dx.doi.org/10.3390/electronics10141690"
         authors: T. Tomesh, P. Gokhale, <b>E.R. Anschuetz</b>, F.T. Chong
         conference: Electronics <b>10</b>, 1690 (2021)
 
-      - title: Using spectral graph theory to map qubits onto connectivity-limited devices
+      - title: Using Spectral Graph Theory to Map Qubits onto Connectivity-limited Devices
         link: "https://dx.doi.org/10.1145/3436752"
         authors: J.X. Lin, <b>E.R. Anschuetz</b>, A.W. Harrow
         conference: ACM Transactions on Quantum Computing <b>2</b>, 1 (2021).
