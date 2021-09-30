@@ -108,7 +108,7 @@ publications:
       - title: Variational Quantum Factoring
         link: "https://dx.doi.org/10.1007/978-3-030-14082-3_7"
         authors: <b>E. Anschuetz</b>, J. Olson, A. Aspuru-Guzik, Y. Cao
-        conference: <i>International Workshop on Quantum Technology and Optimization Problems</i> (Springer, 2019) pp. 74&ndash85
+        conference: <i>International Workshop on Quantum Technology and Optimization Problems</i> (Springer, 2019) pp. 74&ndash;85
 
       - title: Atom-by-atom assembly of defect-free one-dimensional cold atom arrays
         link: "https://dx.doi.org/10.1126/science.aah3752"
