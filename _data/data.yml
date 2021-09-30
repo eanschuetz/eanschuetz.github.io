@@ -48,11 +48,12 @@ sidebar:
 #         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
       I am a PhD student at MIT interested in hybrid quantum/classical algorithms.
       Recently, I've been thinking about how techniques from classical machine learning can
       be used to inform variational quantum algorithm design.
+
 education:
     - degree: PhD in Physics
       university: Massachusetts Institute of Technology
@@ -69,66 +70,50 @@ education:
       time: 2013 - 2017
       details: |
         3.92 GPA, magna cum laude with Highest Honors in Physics
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms
+        link: "arxiv.org/abs/2109.06957"
+        authors: <b>E.R. Anschuetz</b>
+        conference: "arxiv:2109.06957 [quant-ph]"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Enhancing generative models via quantum correlations
+        link: "arxiv.org/abs/2101.08354"
+        authors: X. Gao, <b>E.R. Anschuetz</b>, S.-T. Wang, J.I. Cirac, M.D. Lukin
+        conference: "arxiv:2101.08354 [quant-ph]"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Coreset clustering on small quantum computers
+        link: "dx.doi.org/10.3390/electronics10141690"
+        authors: T. Tomesh, P. Gokhale, <b>E.R. Anschuetz</b>, F.T. Chong
+        conference: Electronics <b>10</b>, 1690 (2021)
+
+      - title: Using spectral graph theory to map qubits onto connectivity-limited devices
+        link: "dx.doi.org/10.1145/3436752"
+        authors: J.X. Lin, <b>E.R. Anschuetz</b>, A.W. Harrow
+        conference: ACM Transactions on Quantum Computing <b>2</b>, 1 (2021).
+
+      - title: Near-term quantum-classical associative adversarial networks
+        link: "dx.doi.org/10.1103/PhysRevA.100.052327"
+        authors: <b>E.R. Anschuetz</b>, C. Zanoci
+        conference: Phys. Rev. A <b>100</b>, 052327 (2019)
+
+      - title: Realizing Quantum Boltzmann Machines Through Eigenstate Thermalization
+        link: "arxiv.org/abs/1903.01359"
+        authors: <b>E.R. Anschuetz</b>, Y. Cao
+        conference: "arxiv:1903.01359 [quant-ph]"
+        disc: Results featured as an invited talk at the <i>Quantum Machine Learning and Data Analytics Workshop</i> (2019).
+
+      - title: Variational Quantum Factoring
+        link: "dx.doi.org/10.1007/978-3-030-14082-3_7"
+        authors: <b>E. Anschuetz</b>, J. Olson, A. Aspuru-Guzik, Y. Cao
+        conference: <i>International Workshop on Quantum Technology and Optimization Problems</i> (Springer, 2019) pp. 74&ndash85
+
+      - title: Atom-by-atom assembly of defect-free one-dimensional cold atom arrays
+        link: "dx.doi.org/10.1126/science.aah3752"
+        authors: M. Endres, H. Bernien, A. Keesling, H. Levine, <b>E.R. Anschuetz</b>, <i>et al.</i>
+        conference: Science <b>354</b>, 1024 (2016)
 
 footer: >
     Layout designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
