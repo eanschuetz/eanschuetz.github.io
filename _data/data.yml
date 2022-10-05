@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: eans@mit.edu
     phone:
-    website: #do not add http://
+    website: scholar.google.com/citations?user=dCjnZaUAAAAJ #do not add http://
     linkedin: eanschuetz
     xing:
     github:
@@ -53,6 +53,7 @@ career-profile:
       I am a PhD student at MIT interested in hybrid quantum/classical algorithms.
       Recently, I've been thinking about how techniques from classical machine learning can
       be used to inform variational quantum algorithm design.
+      Sometimes this is out of date; check out my Google Scholar for what I've been up to!
 
 education:
     - degree: PhD in Physics
@@ -74,15 +75,35 @@ education:
 publications:
     title: Publications
     papers:
-      - title: Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms
-        link: "https://arxiv.org/abs/2109.06957"
+      - title: Interpretable Quantum Advantage in Neural Sequence Learning
+        link: "http://arxiv.org/abs/2209.14353"
+        authors: <b>E.R. Anschuetz</b>, H.-Y. Hu, J.-L. Huang, X. Gao
+        conference: "arXiv:2209.14353 [quant-ph]"
+
+      - title: Degeneracy engineering for classical and quantum annealing: A case study of sparse linear regression in collider physics
+        link: "http://dx.doi.org/10.1103/PhysRevD.106.056008"
+        authors: <b>E.R. Anschuetz</b>, L. Funcke, P.T. Komiske, S. Kryhin, J. Thaler
+        conference: Phys. Rev. D <b>106</b>, 056008 (2022)
+
+      - title: Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps
+        link: "http://arxiv.org/abs/2205.05786"
+        authors: <b>E.R. Anschuetz</b>, B.T. Kiani
+        conference: "arXiv:2205.05786 [quant-ph]"
+
+      - title: ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms
+        link: "http://arxiv.org/abs/2111.04695"
+        authors: M.S. Rudolph, S. Sim, A. Raza, M. Stechly, J.R. McClean, <b>E.R. Anschuetz</b>, L. Serrano, A. Perodomo-Ortiz
+        conference: "arXiv:2111.04695 [quant-ph]"
+
+      - title: Critical Points in Quantum Generative Models
+        link: "https://openreview.net/forum?id=2f1z55GVQN"
         authors: <b>E.R. Anschuetz</b>
-        conference: "arxiv:2109.06957 [quant-ph]"
+        conference: International Conference on Learning Representations (2022)
 
       - title: Enhancing Generative Models via Quantum Correlations
-        link: "https://arxiv.org/abs/2101.08354"
+        link: "http://dx.doi.org/10.1103/PhysRevX.12.021037"
         authors: X. Gao, <b>E.R. Anschuetz</b>, S.-T. Wang, J.I. Cirac, M.D. Lukin
-        conference: "arxiv:2101.08354 [quant-ph]"
+        conference: Phys. Rev. X <b>12</b>, 021037 (2022)
 
       - title: Coreset Clustering on Small Quantum Computers
         link: "https://dx.doi.org/10.3390/electronics10141690"
@@ -92,7 +113,7 @@ publications:
       - title: Using Spectral Graph Theory to Map Qubits onto Connectivity-limited Devices
         link: "https://dx.doi.org/10.1145/3436752"
         authors: J.X. Lin, <b>E.R. Anschuetz</b>, A.W. Harrow
-        conference: ACM Transactions on Quantum Computing <b>2</b>, 1 (2021).
+        conference: ACM Transactions on Quantum Computing <b>2</b>, 1 (2021)
 
       - title: Near-term quantum-classical associative adversarial networks
         link: "https://dx.doi.org/10.1103/PhysRevA.100.052327"
