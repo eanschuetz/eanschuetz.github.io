@@ -14,7 +14,8 @@ sidebar:
     # Sidebar links
     email: eans@mit.edu
     phone:
-    website: scholar.google.com/citations?user=dCjnZaUAAAAJ #do not add http://
+    website: # do not add http://
+    scholar: scholar.google.com/citations?user=dCjnZaUAAAAJ # do not add http://
     linkedin: eanschuetz
     xing:
     github:
@@ -52,7 +53,7 @@ career-profile:
     summary: |
       I am a PhD student at MIT interested in hybrid quantum/classical algorithms. Recently, I've been thinking about how techniques from classical machine learning can be used to inform variational quantum algorithm design.
       
-      Sometimes this is out of date; check out my Google Scholar for what I've been up to!
+      Sometimes this is out of date; check out my <a href="https://scholar.google.com/citations?user=dCjnZaUAAAAJ" target="_blank">Google Scholar</a> for what I've been up to!
 
 education:
     - degree: PhD in Physics

@@ -21,7 +21,13 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+	<a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.scholar %}
+    <li class="scholar"><i class="fas fa-globe-americas"></i>
+	<a href="https://{{ sidebar.website }}" target="_blank">{{ Google Scholar }}</a>
     </li>
     {% endif %}
 
