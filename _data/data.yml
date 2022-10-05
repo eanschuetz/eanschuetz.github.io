@@ -139,6 +139,30 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Interpretable Quantum Advantage in Neural Sequence Modeling"
+        venue: Invited talk, Faculty of Informatics seminar, Masaryk University (2022)
+
+      - title: "Interpretable Quantum Advantage in Neural Sequence Modeling"
+        venue: Invited talk, Institute of Physics of Materials, Czech Academy of Sciences (2022)
+
+      - title: "Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms"
+        link: "https://youtu.be/OnV7zdnYM6o"
+        venue: Invited talk, Quantum Research Seminars Toronto (2021)
+
+      - title: "Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms"
+        link: "https://youtu.be/llI03RzsyZg"
+        venue: Invited talk, Centre for Quantum Technologies (2021)
+
+      - title: "Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms"
+        venue: Invited talk, Quantum Algorithms and Applications Seminar, Microsoft (2021)
+
+      - title: "Quantum Advantage in Basis-Enhanced Neural Sequence Models"
+        venue: Quantum Techniques in Machine Learning (2021)
+
+      - title: "Near-Term Quantum-Classical Associative Adversarial Networks"
+        link: "https://youtu.be/Vw1F1Mfy4R8?t=2220"
+        venue: Quantum Techniques in Machine Learning (2020)
+
       - title: "Improved Training of Quantum Boltzmann Machines"
         link: "https://meetings.aps.org/Meeting/MAR19/Session/E27.1"
         venue: American Physical Society March Meeting (2019)
