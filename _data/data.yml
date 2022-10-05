@@ -136,5 +136,12 @@ publications:
         authors: M. Endres, H. Bernien, A. Keesling, H. Levine, <b>E.R. Anschuetz</b>, <i>et al.</i>
         conference: Science <b>354</b>, 1024 (2016)
 
+talks:
+    title: Talks
+    talks:
+      - title: "Improved Training of Quantum Boltzmann Machines"
+        link: "https://meetings.aps.org/Meeting/MAR19/Session/E27.1"
+        venue: American Physical Society March Meeting (2019)
+
 footer: >
     Original layout designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, with some modifications done by me.
