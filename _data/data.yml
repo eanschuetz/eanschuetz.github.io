@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a PhD student at MIT interested in hybrid quantum/classical algorithms. Recently, I've been thinking about how techniques from classical machine learning can be used to inform variational quantum algorithm design.
+      I'm a PhD student at MIT interested in hybrid quantum/classical algorithms. Recently, I've been thinking about how techniques from classical machine learning can be used to inform variational quantum algorithm design.
       
       Sometimes this is out of date; check out my <a href="https://scholar.google.com/citations?user=dCjnZaUAAAAJ" target="_blank">Google Scholar</a> for what I've been up to!
 
@@ -137,4 +137,4 @@ publications:
         conference: Science <b>354</b>, 1024 (2016)
 
 footer: >
-    Layout designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
+    Original layout designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, with some modifications done by me.
