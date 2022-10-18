@@ -100,7 +100,7 @@ publications:
       - title: "Critical Points in Quantum Generative Models"
         link: "https://openreview.net/forum?id=2f1z55GVQN"
         authors: <b>E.R. Anschuetz</b>
-        conference: International Conference on Learning Representations (2022)
+        conference: <i>International Conference on Learning Representations</i> (2022)
 
       - title: "Enhancing Generative Models via Quantum Correlations"
         link: "https://dx.doi.org/10.1103/PhysRevX.12.021037"
