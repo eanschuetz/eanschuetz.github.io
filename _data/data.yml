@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm a PhD student at MIT interested in hybrid quantum/classical algorithms. Recently, I've been thinking about how techniques from classical machine learning can be used to inform variational quantum algorithm design. Reach out if you've got any cool ideas along these lines!
+      I'm a PhD student at MIT interested in hybrid quantum-classical algorithms. Recently, I've been thinking about how techniques from classical machine learning can be used to inform variational quantum algorithm design. Reach out if you've got any cool ideas along these lines!
 
       Check out my <a href="https://eanschuetz.github.io/assets/pdfs/Eric_Anschuetz_Curriculum_Vitae.pdf" target="_blank">CV</a> if you want to see more details on some of my highlighted work, or just more details about me in general.
       
