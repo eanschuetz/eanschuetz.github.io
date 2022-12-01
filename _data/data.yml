@@ -146,8 +146,11 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Contextuality for Quantum Advantage"
+        venue: Invited tutorial, Harvard University (2022)
+
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
-        venue: Invited talk, Faculty of Informatics seminar, Masaryk University (2022)
+        venue: Invited talk, Masaryk University (2022)
 
       - title: "Critical Points in Hamiltonian Agnostic Variational Quantum Algorithms"
         link: "https://youtu.be/OnV7zdnYM6o"
