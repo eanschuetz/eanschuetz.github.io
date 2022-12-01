@@ -77,6 +77,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Efficient classical algorithms for simulating symmetric quantum systems"
+        link: "https://arxiv.org/abs/2211.16998"
+        authors: <b>E.R. Anschuetz</b>, A. Bauer, B.T. Kiani, S. Lloyd
+        conference: "arXiv:2211.16998 [quant-ph]"
+
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
         link: "https://arxiv.org/abs/2209.14353"
         authors: <b>E.R. Anschuetz</b>, H.-Y. Hu, J.-L. Huang, X. Gao
@@ -141,9 +146,6 @@ publications:
 talks:
     title: Talks
     talks:
-      - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
-        venue: Invited talk, Institute of Physics of Materials, Czech Academy of Sciences (2022)
-
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
         venue: Invited talk, Faculty of Informatics seminar, Masaryk University (2022)
 
