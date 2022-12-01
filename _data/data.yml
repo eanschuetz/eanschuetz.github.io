@@ -82,6 +82,11 @@ publications:
         authors: <b>E.R. Anschuetz</b>, A. Bauer, B.T. Kiani, S. Lloyd
         conference: "arXiv:2211.16998 [quant-ph]"
 
+      - title: "Training Quantum Boltzmann Machines with Coresets"
+        link: "https://dx.doi.org/10.1109/QCE53715.2022.00049"
+        authors: J. Viszlai, T. Tomesh, P. Gokhale, <b>E. Anschuetz</b>, F.T. Chong
+        conference: <i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (2022)
+
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
         link: "https://arxiv.org/abs/2209.14353"
         authors: <b>E.R. Anschuetz</b>, H.-Y. Hu, J.-L. Huang, X. Gao
