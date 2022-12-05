@@ -125,7 +125,7 @@ publications:
       - title: "Using Spectral Graph Theory to Map Qubits onto Connectivity-limited Devices"
         link: "https://dx.doi.org/10.1145/3436752"
         authors: J.X. Lin, <b>E.R. Anschuetz</b>, A.W. Harrow
-        conference: ACM Transactions on Quantum Computing <b>2</b>, 1 (2021)
+        conference: ACM Trans. Quantum Comput. <b>2</b>, 1 (2021)
 
       - title: "Near-term quantum-classical associative adversarial networks"
         link: "https://dx.doi.org/10.1103/PhysRevA.100.052327"
