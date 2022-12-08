@@ -77,6 +77,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "SupercheQ: Quantum Advantage for Distributed Databases"
+        link: "https://arxiv.org/abs/2212.03850"
+        authors: P. Gokhale, <b>E.R. Anschuetz</b>, C. Campbell <i>et al.</i>
+        conference: "arXiv:2211.2212.03850 [quant-ph]"
+
       - title: "Efficient classical algorithms for simulating symmetric quantum systems"
         link: "https://arxiv.org/abs/2211.16998"
         authors: <b>E.R. Anschuetz</b>, A. Bauer, B.T. Kiani, S. Lloyd
