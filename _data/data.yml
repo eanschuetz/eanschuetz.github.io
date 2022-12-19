@@ -88,7 +88,7 @@ publications:
         conference: "arXiv:2211.16998 [quant-ph]"
 
       - title: "Training Quantum Boltzmann Machines with Coresets"
-        link: "https://dx.doi.org/10.1109/QCE53715.2022.00049"
+        link: "https://doi.org/10.1109/QCE53715.2022.00049"
         authors: J. Viszlai, T. Tomesh, P. Gokhale, <b>E. Anschuetz</b>, F.T. Chong
         conference: <i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (2022)
 
@@ -98,14 +98,14 @@ publications:
         conference: "arXiv:2209.14353 [quant-ph]"
 
       - title: "Degeneracy engineering for classical and quantum annealing: A case study of sparse linear regression in collider physics"
-        link: "https://dx.doi.org/10.1103/PhysRevD.106.056008"
+        link: "https://doi.org/10.1103/PhysRevD.106.056008"
         authors: <b>E.R. Anschuetz</b>, L. Funcke, P.T. Komiske, S. Kryhin, J. Thaler
         conference: Phys. Rev. D <b>106</b>, 056008 (2022)
 
-      - title: "Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps"
-        link: "https://arxiv.org/abs/2205.05786"
+      - title: "Quantum variational algorithms are swamped with traps"
+        link: "https://doi.org/10.1038/s41467-022-35364-5"
         authors: <b>E.R. Anschuetz</b>, B.T. Kiani
-        conference: "arXiv:2205.05786 [quant-ph]"
+        conference: Nat. Commun. <b>13</b>, 7760 (2022)
 
       - title: "ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms"
         link: "https://arxiv.org/abs/2111.04695"
@@ -118,22 +118,22 @@ publications:
         conference: <i>International Conference on Learning Representations</i> (2022)
 
       - title: "Enhancing Generative Models via Quantum Correlations"
-        link: "https://dx.doi.org/10.1103/PhysRevX.12.021037"
+        link: "https://doi.org/10.1103/PhysRevX.12.021037"
         authors: X. Gao, <b>E.R. Anschuetz</b>, S.-T. Wang, J.I. Cirac, M.D. Lukin
         conference: Phys. Rev. X <b>12</b>, 021037 (2022)
 
       - title: "Coreset Clustering on Small Quantum Computers"
-        link: "https://dx.doi.org/10.3390/electronics10141690"
+        link: "https://doi.org/10.3390/electronics10141690"
         authors: T. Tomesh, P. Gokhale, <b>E.R. Anschuetz</b>, F.T. Chong
         conference: Electronics <b>10</b>, 1690 (2021)
 
       - title: "Using Spectral Graph Theory to Map Qubits onto Connectivity-limited Devices"
-        link: "https://dx.doi.org/10.1145/3436752"
+        link: "https://doi.org/10.1145/3436752"
         authors: J.X. Lin, <b>E.R. Anschuetz</b>, A.W. Harrow
         conference: ACM Trans. Quantum Comput. <b>2</b>, 1 (2021)
 
       - title: "Near-term quantum-classical associative adversarial networks"
-        link: "https://dx.doi.org/10.1103/PhysRevA.100.052327"
+        link: "https://doi.org/10.1103/PhysRevA.100.052327"
         authors: <b>E.R. Anschuetz</b>, C. Zanoci
         conference: Phys. Rev. A <b>100</b>, 052327 (2019)
 
@@ -144,12 +144,12 @@ publications:
         disc: Results featured as an invited talk at the <a href="https://www.purdue.edu/data-science/quantum-machine-learning/" target="_blank"><i>Quantum Machine Learning and Data Analytics Workshop</i> (2019)</a>.
 
       - title: "Variational Quantum Factoring"
-        link: "https://dx.doi.org/10.1007/978-3-030-14082-3_7"
+        link: "https://doi.org/10.1007/978-3-030-14082-3_7"
         authors: <b>E. Anschuetz</b>, J. Olson, A. Aspuru-Guzik, Y. Cao
         conference: <i>International Workshop on Quantum Technology and Optimization Problems</i> (Springer, 2019) pp. 74&ndash;85
 
       - title: "Atom-by-atom assembly of defect-free one-dimensional cold atom arrays"
-        link: "https://dx.doi.org/10.1126/science.aah3752"
+        link: "https://doi.org/10.1126/science.aah3752"
         authors: M. Endres, H. Bernien, A. Keesling, H. Levine, <b>E.R. Anschuetz</b>, A. Krajenbrink, C. Senko, V. Vuletic, M. Greiner, M.D. Lukin
         conference: Science <b>354</b>, 1024 (2016)
 
