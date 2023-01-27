@@ -156,6 +156,9 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "The Expressive Power of Restricted Quantum Machine Learning Architectures"
+        venue: Invited talk, QHack (2023)
+
       - title: "Contextuality for Quantum Advantage"
         venue: Invited tutorial, Harvard University (2022)
 
