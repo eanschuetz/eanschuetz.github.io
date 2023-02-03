@@ -60,7 +60,7 @@ career-profile:
 education:
     - degree: PhD in Physics
       university: Massachusetts Institute of Technology
-      time: 2017 -
+      time: 2017 - 2023
       details: |
         In progress, co-advised by Aram Harrow and Mikhail D. Lukin
     - degree: MA in Physics
@@ -156,6 +156,12 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "The Expressive Power of Restricted Quantum Machine Learning Architectures"
+        venue: Invited talk, Centre for Quantum Technologies (2023)
+
+      - title: "Efficient classical algorithms for simulating symmetric quantum systems"
+        venue: Invited talk, Centre for Quantum Technologies (2023)
+
       - title: "The Expressive Power of Restricted Quantum Machine Learning Architectures"
         venue: Invited talk, QHack (2023)
 
