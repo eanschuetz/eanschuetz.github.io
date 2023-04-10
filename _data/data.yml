@@ -77,6 +77,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Combinatorial NLTS From the Overlap Gap Property"
+        link: "https://arxiv.org/abs/2304.00643"
+        authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B. Kiani
+        conference: "arXiv:2304.00643 [quant-ph]"
+
       - title: "SupercheQ: Quantum Advantage for Distributed Databases"
         link: "https://arxiv.org/abs/2212.03850"
         authors: P. Gokhale, <b>E.R. Anschuetz</b>, C. Campbell <i>et al.</i>
