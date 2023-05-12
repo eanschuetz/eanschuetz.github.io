@@ -162,7 +162,7 @@ talks:
     title: Talks
     talks:
       - title: "A discussion on QML"
-        venue: Panel, CIFAR QIS Workshop (2023)
+        venue: Panel, CIFAR Quantum Information Science Program Meeting (2023)
 
       - title: "The Expressive Power of Restricted Quantum Machine Learning Architectures"
         link: "https://youtu.be/BSFsLkBIjr4"
