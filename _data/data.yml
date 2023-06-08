@@ -98,9 +98,9 @@ publications:
         conference: <i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (2022)
 
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
-        link: "https://arxiv.org/abs/2209.14353"
+        link: "https://doi.org/10.1103/PRXQuantum.4.020338"
         authors: <b>E.R. Anschuetz</b>, H.-Y. Hu, J.-L. Huang, X. Gao
-        conference: "arXiv:2209.14353 [quant-ph]"
+        conference: "PRX Quantum <b>4</b>, 020338 (2023)"
 
       - title: "Degeneracy engineering for classical and quantum annealing: A case study of sparse linear regression in collider physics"
         link: "https://doi.org/10.1103/PhysRevD.106.056008"
