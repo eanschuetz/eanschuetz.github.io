@@ -62,17 +62,15 @@ education:
       university: Massachusetts Institute of Technology
       time: 2017 - 2023
       details: |
-        In progress, co-advised by Aram Harrow and Mikhail D. Lukin
+        Co-advised by Aram Harrow and Mikhail D. Lukin
     - degree: MA in Physics
       university: Harvard University
       time: 2015 - 2017
-      details: |
-        3.89 GPA
     - degree: BA in Physics and Mathematics
       university: Harvard University
       time: 2013 - 2017
       details: |
-        3.92 GPA, magna cum laude with Highest Honors in Physics
+        <i>Magna cum laude</i> with Highest Honors in Physics
 
 publications:
     title: Publications
@@ -177,6 +175,7 @@ talks:
         venue: Invited talk, QHack (2023)
 
       - title: "Contextuality for Quantum Advantage"
+        link: "https://eanschuetz.github.io/assets/pdfs/Contextuality_for_Quantum_Advantage_Tutorial.pdf"
         venue: Invited tutorial, Harvard University (2022)
 
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
