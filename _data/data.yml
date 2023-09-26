@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Product states optimize quantum <i>p</i>-spin models for large <i>p</i>"
+        link: "https://arxiv.org/abs/2309.11709"
+        authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B.T. Kiani
+        conference: "arXiv:2309.11709 [quant-ph]"
+
       - title: "Combinatorial NLTS From the Overlap Gap Property"
         link: "https://arxiv.org/abs/2304.00643"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B. Kiani
