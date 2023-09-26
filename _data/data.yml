@@ -116,9 +116,9 @@ publications:
         conference: Nat. Commun. <b>13</b>, 7760 (2022)
 
       - title: "ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms"
-        link: "https://arxiv.org/abs/2111.04695"
+        link: "https://zapata.ai/publications/orqviz/"
         authors: M.S. Rudolph, S. Sim, A. Raza, M. Stechly, J.R. McClean, <b>E.R. Anschuetz</b>, L. Serrano, A. Perodomo-Ortiz
-        conference: "arXiv:2111.04695 [quant-ph]"
+        conference: Tech. Rep. (Zapata Computing Inc., 2021)
 
       - title: "Critical Points in Quantum Generative Models"
         link: "https://openreview.net/forum?id=2f1z55GVQN"
