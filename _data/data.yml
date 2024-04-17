@@ -75,10 +75,30 @@ education:
 publications:
     title: Publications
     papers:
-      - title: "Product states optimize quantum <i>p</i>-spin models for large <i>p</i>"
-        link: "https://arxiv.org/abs/2309.11709"
-        authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B.T. Kiani
-        conference: "arXiv:2309.11709 [quant-ph]"
+      - title: "Bounds on the ground state energy of quantum <i>p</i>-spin Hamiltonians"
+        link: "https://arxiv.org/abs/2404.07231"
+        authors: E.R. Anschuetz, D. Gamarnik, B.T. Kiani
+        conference: "arXiv:2404.07231 [quant-ph]"
+
+      - title: "Q-CHOP: Quantum constrained Hamiltonian optimization"
+        link: "https://arxiv.org/abs/2403.05653"
+        authors: M.A. Perlin, Ruslan Shaydulin, ..., <b>E.R. Anschuetz</b>, M. Pistoia, P. Gokhale
+        conference: "arXiv:2403.05653 [quant-ph]"
+
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        link: "https://arxiv.org/abs/2402.08606"
+        authors: <b>E.R. Anschuetz</b>, X. Gao
+        conference: "arXiv:2402.08606 [quant-ph]"
+  
+      - title: "Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing"
+        link: "https://arxiv.org/abs/2312.09121"
+        authors: M. Cerezo, M. Larocca, D. García-Martín, ..., <b>E.R. Anschuetz</b>, Z. Holmes
+        conference: "arXiv:2312.09121 [quant-ph]"
+
+      - title: "The Trainability and Expressivity of Quantum Machine Learning Models"
+        link: "https://hdl.handle.net/1721.1/152554"
+        authors: <b>E.R. Anschuetz</b>
+        conference: "Ph.D. thesis"
 
       - title: "Combinatorial NLTS From the Overlap Gap Property"
         link: "https://arxiv.org/abs/2304.00643"
@@ -164,6 +184,18 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        venue: Invited talk, Los Alamos National Laboratory (2024)
+
+      - title: "Quantum Theory and Algorithms"
+        venue: Invited talk, PlanQ (2024)
+
+      - title: "Rethinking Quantum Neural Networks"
+        venue: Invited talk, CSUN (2024)
+
+      - title: "Enhancing Generative Models via Quantum Correlations"
+        venue: Invited talk, Tensor Network Reading Group, Mila (2023)
+
       - title: "A discussion on QML"
         venue: Panel, CIFAR Quantum Information Science Program Meeting (2023)
 
