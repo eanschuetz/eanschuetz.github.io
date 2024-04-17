@@ -108,12 +108,12 @@ publications:
       - title: "SupercheQ: Quantum Advantage for Distributed Databases"
         link: "https://arxiv.org/abs/2212.03850"
         authors: P. Gokhale, <b>E.R. Anschuetz</b>, C. Campbell <i>et al.</i>
-        conference: "arXiv:2211.2212.03850 [quant-ph]"
+        conference: "arXiv:2212.03850 [quant-ph]"
 
       - title: "Efficient classical algorithms for simulating symmetric quantum systems"
-        link: "https://arxiv.org/abs/2211.16998"
+        link: "https://doi.org/10.22331/q-2023-11-28-1189"
         authors: <b>E.R. Anschuetz</b>, A. Bauer, B.T. Kiani, S. Lloyd
-        conference: "arXiv:2211.16998 [quant-ph]"
+        conference: "Quantum <b>7</b>, 1189 (2023)"
 
       - title: "Training Quantum Boltzmann Machines with Coresets"
         link: "https://doi.org/10.1109/QCE53715.2022.00049"
