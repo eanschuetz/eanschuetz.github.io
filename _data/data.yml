@@ -77,7 +77,7 @@ publications:
     papers:
       - title: "Bounds on the ground state energy of quantum <i>p</i>-spin Hamiltonians"
         link: "https://arxiv.org/abs/2404.07231"
-        authors: E.R. Anschuetz, D. Gamarnik, B.T. Kiani
+        authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B.T. Kiani
         conference: "arXiv:2404.07231 [quant-ph]"
 
       - title: "Q-CHOP: Quantum constrained Hamiltonian optimization"
