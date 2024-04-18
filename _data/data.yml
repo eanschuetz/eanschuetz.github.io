@@ -188,7 +188,8 @@ talks:
         venue: Invited talk, Los Alamos National Laboratory (2024)
 
       - title: "Quantum Theory and Algorithms"
-        venue: Invited talk, PlanQ (2024)
+        link: "https://fmuelle.gitlab.io/planqc24"
+        venue: Invited talk, Planning Workshop on Quantum Computing (2024)
 
       - title: "Rethinking Quantum Neural Networks"
         venue: Invited talk, CSUN (2024)
