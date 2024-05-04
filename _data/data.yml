@@ -189,10 +189,13 @@ talks:
 
       - title: "Quantum Theory and Algorithms"
         link: "https://fmuelle.gitlab.io/planqc24"
-        venue: Invited talk, Planning Workshop on Quantum Computing (2024)
+        venue: Invited talk, Planning Workshop on Quantum Computing, ASPLOS (2024)
 
       - title: "Rethinking Quantum Neural Networks"
         venue: Invited talk, CSUN (2024)
+
+      - title: "Interpretable Expressivity Separations in Trainable Quantum Machine Learning"
+        venue: Invited talk, IQIM Seminar, Caltech (2024)
 
       - title: "Enhancing Generative Models via Quantum Correlations"
         link: "https://youtu.be/rUbjqU98jJY"
@@ -237,6 +240,9 @@ talks:
       - title: "Near-Term Quantum-Classical Associative Adversarial Networks"
         link: "https://youtu.be/Vw1F1Mfy4R8?t=2220"
         venue: Quantum Techniques in Machine Learning (2020)
+
+      - title: "Quantum Machine Learning on NISQ Devices"
+        venue: Invited talk, Condensed Matter Seminar, Tufts University (2020)
 
       - title: "Improved Training of Quantum Boltzmann Machines"
         link: "https://meetings.aps.org/Meeting/MAR19/Session/E27.1"
