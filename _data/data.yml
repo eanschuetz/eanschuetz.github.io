@@ -51,22 +51,22 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Sherman Fairchild postdoc</a> at Caltech interested in quantum machine learning and hybrid quantum-classical algorithms. I've thought a lot about how to design provably efficient and expressive quantum machine learning models, showing they're great at solving certain kinds of problems (and not so great at solving even more kinds of problems).
+      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Sherman Fairchild postdoc</a> at Caltech interested in quantum machine learning. I've thought a lot about how to design provably efficient and expressive quantum machine learning models, showing they're great at solving certain kinds of problems and not so great at solving even more kinds of problems. Studying when such models perform poorly has also led me to think about the hardness of approximation of typical instances of quantum spin glasses, both from a classical and quantum algorithmic perspective.
 
       Check out my <a href="https://eanschuetz.github.io/assets/pdfs/Eric_Anschuetz_Curriculum_Vitae.pdf" target="_blank">CV</a> if you want to see more details on some of my highlighted work or just more details about me in general.
 
       Sometimes this page is out of date; check out my <a href="https://scholar.google.com/citations?user=dCjnZaUAAAAJ" target="_blank">Google Scholar</a> or my <a href="https://arxiv.org/a/anschuetz_e_1.html" target="_blank">arXiv</a> page to see what I've been up to recently!
 
 education:
-    - degree: PhD in Physics
+    - degree: Ph.D. in Physics
       university: Massachusetts Institute of Technology
       time: 2017 - 2023
       details: |
-        Co-advised by Aram Harrow and Mikhail D. Lukin
-    - degree: MA in Physics
+        Co-advised by Aram W. Harrow and Mikhail D. Lukin
+    - degree: M.A. in Physics
       university: Harvard University
       time: 2015 - 2017
-    - degree: BA in Physics and Mathematics
+    - degree: B.A. in Physics and Mathematics
       university: Harvard University
       time: 2013 - 2017
       details: |
@@ -75,6 +75,16 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Strongly interacting fermions are non-trivial yet non-glassy"
+        link: "https://arxiv.org/abs/2408.15699"
+        authors: <b>E.R. Anschuetz</b>, C.-F. Chen, B.T. Kiani, R. King
+        conference: "arXiv:2408.15699 [quant-ph]"
+
+      - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
+        link: "https://arxiv.org/abs/2408.11901"
+        authors: <b>E.R. Anschuetz</b>
+        conference: "arXiv:2408.11901 [quant-ph]"
+
       - title: "Bounds on the ground state energy of quantum <i>p</i>-spin Hamiltonians"
         link: "https://arxiv.org/abs/2404.07231"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B.T. Kiani
@@ -184,6 +194,25 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        link: "https://qtml2024.org/speakers/"
+        venue: Invited talk, QTML (2024)
+
+      - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
+        venue: Invited talk, Quantum Machine Learning seminar, Google (2024)
+
+      - title: "Rethinking Quantum Learning Algorithms"
+        link: "https://mmm11.ipm.cz/technical-program"
+        venue: Invited talk, MMM11 (2024)
+
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        link: "https://quantumconsortium.org/quantum-showcase/"
+        venue: Invited talk, QED-C Quantum Talent Showcase (2024)
+
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        link: "https://conference.seeqa.org/"
+        venue: Invited talk, SeeQA (2024)
+
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
         venue: Invited talk, Los Alamos National Laboratory (2024)
 
