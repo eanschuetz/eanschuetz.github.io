@@ -198,6 +198,10 @@ talks:
         link: "https://qtml2024.org/speakers/"
         venue: Invited talk, QTML (2024)
 
+      - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
+        link: "https://aqa.liacs.nl/"
+        venue: Invited talk, aQa seminar (2024)
+
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
         venue: Invited talk, Quantum Machine Learning seminar, Google (2024)
 
