@@ -81,9 +81,9 @@ publications:
         conference: "arXiv:2408.15699 [quant-ph]"
 
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
-        link: "https://arxiv.org/abs/2408.11901"
+        link: "https://openreview.net/forum?id=fv8TTt9srF"
         authors: <b>E.R. Anschuetz</b>
-        conference: "arXiv:2408.11901 [quant-ph]"
+        conference: <i>International Conference on Learning Representations</i> (2025)
 
       - title: "Bounds on the ground state energy of quantum <i>p</i>-spin Hamiltonians"
         link: "https://arxiv.org/abs/2404.07231"
@@ -113,7 +113,7 @@ publications:
       - title: "Combinatorial NLTS From the Overlap Gap Property"
         link: "https://arxiv.org/abs/2304.00643"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B. Kiani
-        conference: "arXiv:2304.00643 [quant-ph]"
+        conference: "Quantum <b>8</b>, 1527 (2024)"
 
       - title: "SupercheQ: Quantum Advantage for Distributed Databases"
         link: "https://arxiv.org/abs/2212.03850"
@@ -146,7 +146,7 @@ publications:
         conference: Nat. Commun. <b>13</b>, 7760 (2022)
 
       - title: "ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms"
-        link: "https://zapata.ai/publications/orqviz/"
+        link: "https://doi.org/10.48550/arXiv.2111.04695"
         authors: M.S. Rudolph, S. Sim, A. Raza, M. Stechly, J.R. McClean, <b>E.R. Anschuetz</b>, L. Serrano, A. Perodomo-Ortiz
         conference: Tech. Rep. (Zapata Computing Inc., 2021)
 
