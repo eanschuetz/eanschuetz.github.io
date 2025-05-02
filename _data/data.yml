@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Efficient Learning Implies Quantum Glassiness"
+        link: "https://arxiv.org/abs/2505.00087"
+        authors: <b>E.R. Anschuetz</b>
+        conference: "arXiv:2505.00087 [quant-ph]"
+
       - title: "Strongly interacting fermions are non-trivial yet non-glassy"
         link: "https://arxiv.org/abs/2408.15699"
         authors: <b>E.R. Anschuetz</b>, C.-F. Chen, B.T. Kiani, R. King
