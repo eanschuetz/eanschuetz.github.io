@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Sherman Fairchild postdoc</a> at Caltech interested in quantum machine learning. I've thought a lot about how to design provably efficient and expressive quantum machine learning models, showing they're great at solving certain kinds of problems and not so great at solving even more kinds of problems. Studying when such models perform poorly has also led me to think about the hardness of approximation of typical instances of quantum spin glasses, both from a classical and quantum algorithmic perspective.
+      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Sherman Fairchild postdoc</a> at Caltech interested in both quantum spin glasses and machine learning. I've thought a lot about how to design provably efficient and expressive quantum machine learning models, showing they're great at solving certain kinds of problems and not so great at solving even more kinds of problems. Studying when such models perform poorly has also led me to think about the hardness of approximation of typical instances of quantum spin glasses, both from a classical and quantum algorithmic perspective.
 
       Check out my <a href="https://eanschuetz.github.io/assets/pdfs/Eric_Anschuetz_Curriculum_Vitae.pdf" target="_blank">CV</a> if you want to see more details on some of my highlighted work or just more details about me in general.
 
