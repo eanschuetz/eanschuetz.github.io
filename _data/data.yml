@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Optimizing Sparse SYK"
+        link: "https://arxiv.org/abs/2506.09037"
+        authors: M. Ding, R. King, B.T. Kiani, <b>E.R. Anschuetz</b>
+        conference: "arXiv:2506.09037 [quant-ph]"
+
       - title: "Efficient Learning Implies Quantum Glassiness"
         link: "https://arxiv.org/abs/2505.00087"
         authors: <b>E.R. Anschuetz</b>
