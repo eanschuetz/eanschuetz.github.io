@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "k-Contextuality as a Heuristic for Memory Separations in Learning"
+        link: "https://arxiv.org/abs/2507.11604"
+        authors: M.H. Teo, W. Yang, J. Sud, T. Tomesh, F.T. Chong, <b>E.R. Anschuetz</b>
+        conference: "arXiv:2507.11604 [quant-ph]"
+
       - title: "Optimizing Sparse SYK"
         link: "https://arxiv.org/abs/2506.09037"
         authors: M. Ding, R. King, B.T. Kiani, <b>E.R. Anschuetz</b>
