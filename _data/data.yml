@@ -91,9 +91,9 @@ publications:
         conference: "arXiv:2505.00087 [quant-ph]"
 
       - title: "Strongly interacting fermions are non-trivial yet non-glassy"
-        link: "https://arxiv.org/abs/2408.15699"
+        link: "https://doi.org/10.1103/cbqf-d24r"
         authors: <b>E.R. Anschuetz</b>, C.-F. Chen, B.T. Kiani, R. King
-        conference: "arXiv:2408.15699 [quant-ph]"
+        conference: Phys. Rev. Lett. <b>135</b>, 030602 (2025)
 
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
         link: "https://openreview.net/forum?id=fv8TTt9srF"
@@ -123,12 +123,12 @@ publications:
       - title: "The Trainability and Expressivity of Quantum Machine Learning Models"
         link: "https://hdl.handle.net/1721.1/152554"
         authors: <b>E.R. Anschuetz</b>
-        conference: "Ph.D. thesis"
+        conference: Ph.D. thesis
 
       - title: "Combinatorial NLTS From the Overlap Gap Property"
         link: "https://arxiv.org/abs/2304.00643"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B. Kiani
-        conference: "Quantum <b>8</b>, 1527 (2024)"
+        conference: Quantum <b>8</b>, 1527 (2024)
 
       - title: "SupercheQ: Quantum Advantage for Distributed Databases"
         link: "https://arxiv.org/abs/2212.03850"
@@ -138,7 +138,7 @@ publications:
       - title: "Efficient classical algorithms for simulating symmetric quantum systems"
         link: "https://doi.org/10.22331/q-2023-11-28-1189"
         authors: <b>E.R. Anschuetz</b>, A. Bauer, B.T. Kiani, S. Lloyd
-        conference: "Quantum <b>7</b>, 1189 (2023)"
+        conference: Quantum <b>7</b>, 1189 (2023)
 
       - title: "Training Quantum Boltzmann Machines with Coresets"
         link: "https://doi.org/10.1109/QCE53715.2022.00049"
@@ -148,7 +148,7 @@ publications:
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
         link: "https://doi.org/10.1103/PRXQuantum.4.020338"
         authors: <b>E.R. Anschuetz</b>, H.-Y. Hu, J.-L. Huang, X. Gao
-        conference: "PRX Quantum <b>4</b>, 020338 (2023)"
+        conference: PRX Quantum <b>4</b>, 020338 (2023)
 
       - title: "Degeneracy engineering for classical and quantum annealing: A case study of sparse linear regression in collider physics"
         link: "https://doi.org/10.1103/PhysRevD.106.056008"
