@@ -115,10 +115,10 @@ publications:
         authors: <b>E.R. Anschuetz</b>, X. Gao
         conference: "arXiv:2402.08606 [quant-ph]"
   
-      - title: "Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing"
-        link: "https://arxiv.org/abs/2312.09121"
+      - title: "Does provable absence of barren plateaus imply classical simulability?"
+        link: "https://doi.org/10.1038/s41467-025-63099-6"
         authors: M. Cerezo, M. Larocca, D. García-Martín, ..., <b>E.R. Anschuetz</b>, Z. Holmes
-        conference: "arXiv:2312.09121 [quant-ph]"
+        conference: Nat. Commun. <b>16</b>, 7907 (2025)
 
       - title: "The Trainability and Expressivity of Quantum Machine Learning Models"
         link: "https://hdl.handle.net/1721.1/152554"
