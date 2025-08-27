@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Burke Fellow</a> at Caltech working on the (quantum "||" classical) algorithmic implications of (quantum "||" classical) spin glass theory. Some of my past research applied these techniques to quantum machine learning algorithms, which I showed generally fail to train due to a <a href="https://doi.org/10.1038/s41467-022-35364-5" target="_blank">proliferation of poor local minima in their optimization landscapes</a>. Learning why algorithms break has also helped me design <a href="https://doi.org/10.1103/cbqf-d24r" target="_blank">ones</a> that <a href="https://doi.org/10.1103/PRXQuantum.4.020338" target="_blank">don't</a>.
+      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Burke Fellow</a> at Caltech working on the (quantum \|\| classical) algorithmic implications of (quantum \|\| classical) spin glass theory. Some of my past research applied these techniques to quantum machine learning algorithms, which I showed generally fail to train due to a <a href="https://doi.org/10.1038/s41467-022-35364-5" target="_blank">proliferation of poor local minima in their optimization landscapes</a>. Learning why algorithms break has also helped me design <a href="https://doi.org/10.1103/cbqf-d24r" target="_blank">ones</a> that <a href="https://doi.org/10.1103/PRXQuantum.4.020338" target="_blank">don't</a>.
 
       Check out my <a href="https://eanschuetz.github.io/assets/pdfs/Eric_Anschuetz_Curriculum_Vitae.pdf" target="_blank">CV</a> if you want to see more details on some of my highlighted work or just more details about me in general.
 
