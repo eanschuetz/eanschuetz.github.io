@@ -78,7 +78,7 @@ publications:
       - title: "k-Contextuality as a Heuristic for Memory Separations in Learning"
         link: "https://arxiv.org/abs/2507.11604"
         authors: M.H. Teo, W. Yang, J. Sud, T. Tomesh, F.T. Chong, <b>E.R. Anschuetz</b>
-        conference: "arXiv:2507.11604 [quant-ph]"
+        conference: <i>IEEE International Conference on Quantum Computing and Engineering</i> (2025)
 
       - title: "Optimizing Sparse SYK"
         link: "https://arxiv.org/abs/2506.09037"
@@ -101,9 +101,9 @@ publications:
         conference: <i>International Conference on Learning Representations</i> (2025)
 
       - title: "Bounds on the ground state energy of quantum <i>p</i>-spin Hamiltonians"
-        link: "https://arxiv.org/abs/2404.07231"
+        link: "https://doi.org/10.1007/s00220-025-05412-4"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, B.T. Kiani
-        conference: "arXiv:2404.07231 [quant-ph]"
+        conference: Commun. Math. Phys. <b>406</b>, 232 (2025)
 
       - title: "Q-CHOP: Quantum constrained Hamiltonian optimization"
         link: "https://arxiv.org/abs/2403.05653"
