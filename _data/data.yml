@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Decoded Quantum Interferometry Requires Structure"
+        link: "https://arxiv.org/abs/2509.14509"
+        authors: <b>E.R. Anschuetz</b>, D. Gamarnik, J.Z. Lu
+        conference: "arXiv:2509.14509 [quant-ph]"
+
       - title: "k-Contextuality as a Heuristic for Memory Separations in Learning"
         link: "https://arxiv.org/abs/2507.11604"
         authors: M.H. Teo, W. Yang, J. Sud, T. Tomesh, F.T. Chong, <b>E.R. Anschuetz</b>
@@ -209,6 +214,16 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
+        link: "https://qtml2025.cqt.sg/accepted-papers/"
+        venue: QTML (2025)
+
+      - title: "Efficient Learning Implies Quantum Glassiness"
+        venue: Invited talk, Foxconn Quantum Computing Seminar (2025)
+
+      - title: "Decoded Quantum Interferometry Requires Structure"
+        venue: Invited talk, Caltech Theory Tea (2025)
+
       - title: "Efficient Learning Implies Quantum Glassiness"
         link: "https://aims-quantum-learning-and-testing.github.io/"
         venue: Invited talk, AIMS Workshop and School on The Theory of Quantum Learning Algorithms (2025)
