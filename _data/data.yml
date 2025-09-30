@@ -302,7 +302,7 @@ talks:
         venue: Invited talk, QHack (2023)
 
       - title: "Contextuality for Quantum Advantage"
-        link: "https://eanschuetz.github.io/assets/pdfs/Contextuality_for_Quantum_Advantage_Tutorial.pdf"
+        link: "https://eanschuetz.github.io/assets/pdfs/tutorials/Contextuality_for_Quantum_Advantage_Tutorial.pdf"
         venue: Invited tutorial, Harvard University (2022)
 
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
