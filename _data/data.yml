@@ -333,64 +333,64 @@ talks:
         link: "https://meetings.aps.org/Meeting/MAR19/Session/E27.1"
         venue: American Physical Society March Meeting (2019)  
 
-talks:
+projects:
     title: Notes
     talks:
       - title: "Contextuality for Quantum Advantage"
         link: "https://eanschuetz.github.io/assets/pdfs/tutorials/Contextuality_for_Quantum_Advantage_Tutorial.pdf"
-        venue: Invited tutorial, Harvard University (2022)
+        tagline: Invited tutorial, Harvard University (2022)
 
       - title: "Week 13"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190516_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 12"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190509_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 11"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190502_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 10"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190425_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 9"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190418_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 8"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190404_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 7"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190321_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 6"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190314_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 5"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190307_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 4"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190228_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 3"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190221_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 2"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190214_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
       - title: "Week 1"
         link: "https://eanschuetz.github.io/assets/pdfs/8_311_2019_recitation_notes/20190207_8_311_Recitation_Notes.pdf"
-        venue: MIT 8.311 Recitation Notes (2019)
+        tagline: MIT 8.311 Recitation Notes (2019)
 
 footer: >
     Original layout designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, with some modifications done by me.
