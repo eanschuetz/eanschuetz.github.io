@@ -335,7 +335,7 @@ talks:
 
 projects:
     title: Notes
-    talks:
+    assignments:
       - title: "Contextuality for Quantum Advantage"
         link: "https://eanschuetz.github.io/assets/pdfs/tutorials/Contextuality_for_Quantum_Advantage_Tutorial.pdf"
         tagline: Invited tutorial, Harvard University (2022)
