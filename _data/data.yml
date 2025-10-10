@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Average-case quantum complexity from glassiness"
+        link: "https://arxiv.org/abs/2510.08497"
+        authors: A. Zlokapa, B.T. Kiani, <b>E.R. Anschuetz</b>
+        conference: "arXiv:2510.08497 [quant-ph]"
+
       - title: "Decoded Quantum Interferometry Requires Structure"
         link: "https://arxiv.org/abs/2509.14509"
         authors: <b>E.R. Anschuetz</b>, D. Gamarnik, J.Z. Lu
