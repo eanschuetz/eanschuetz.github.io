@@ -221,7 +221,7 @@ talks:
     talks:
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
         link: "https://qtml2025.cqt.sg/accepted-papers/"
-        venue: QTML (2025)
+        venue: Quantum Techniques in Machine Learning (QTML) (2025)
 
       - title: "Efficient Learning Implies Quantum Glassiness"
         venue: Invited talk, Foxconn Quantum Computing Seminar (2025)
@@ -250,7 +250,7 @@ talks:
 
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
         link: "https://qtml2024.org/speakers/"
-        venue: Invited talk, QTML (2024)
+        venue: Invited talk, Quantum Techniques in Machine Learning (QTML) (2024)
 
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
         link: "https://aqa.liacs.nl/"
@@ -325,11 +325,11 @@ talks:
         venue: Invited talk, Quantum Algorithms and Applications seminar, Microsoft (2021)
 
       - title: "Quantum Advantage in Basis-Enhanced Neural Sequence Models"
-        venue: Quantum Techniques in Machine Learning (2021)
+        venue: Quantum Techniques in Machine Learning (QTML) (2021)
 
       - title: "Near-Term Quantum-Classical Associative Adversarial Networks"
         link: "https://youtu.be/Vw1F1Mfy4R8?t=2220"
-        venue: Quantum Techniques in Machine Learning (2020)
+        venue: Quantum Techniques in Machine Learning (QTML) (2020)
 
       - title: "Quantum Machine Learning on NISQ Devices"
         venue: Invited talk, Condensed Matter Seminar, Tufts University (2020)
