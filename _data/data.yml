@@ -219,6 +219,10 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Efficient Learning Implies Quantum Glassiness"
+        link: "https://wqbm.info/"
+        venue: Invited talk, International Workshop on Quantum Boltzmann Machines (2025)
+
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
         link: "https://qtml2025.cqt.sg/accepted-papers/"
         venue: Quantum Techniques in Machine Learning (QTML) (2025)
