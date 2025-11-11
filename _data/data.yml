@@ -78,7 +78,7 @@ publications:
       - title: "Average-case quantum complexity from glassiness"
         link: "https://arxiv.org/abs/2510.08497"
         authors: A. Zlokapa, B.T. Kiani, <b>E.R. Anschuetz</b>
-        conference: "arXiv:2510.08497 [quant-ph]"
+        conference: "QIP 2026, arXiv:2510.08497 [quant-ph]"
 
       - title: "Decoded Quantum Interferometry Requires Structure"
         link: "https://arxiv.org/abs/2509.14509"
@@ -98,12 +98,12 @@ publications:
       - title: "Efficient Learning Implies Quantum Glassiness"
         link: "https://arxiv.org/abs/2505.00087"
         authors: <b>E.R. Anschuetz</b>
-        conference: "arXiv:2505.00087 [quant-ph]"
+        conference: "QIP 2026, arXiv:2505.00087 [quant-ph]"
 
       - title: "Strongly Interacting Fermions Are Nontrivial yet Nonglassy"
         link: "https://doi.org/10.1103/cbqf-d24r"
         authors: <b>E.R. Anschuetz</b>, C.-F. Chen, B.T. Kiani, R. King
-        conference: Phys. Rev. Lett. <b>135</b>, 030602 (2025)
+        conference: Phys. Rev. Lett. <b>135</b>, 030602 (2025), QIP 2025
 
       - title: "A Unified Theory of Quantum Neural Network Loss Landscapes"
         link: "https://openreview.net/forum?id=fv8TTt9srF"
@@ -220,6 +220,10 @@ talks:
     title: Talks
     talks:
       - title: "Efficient Learning Implies Quantum Glassiness"
+        link: "https://qip2026.lu.lv/programme/accepted-papers/"
+        venue: Quantum Information Processing (2026)
+
+      - title: "Average-case quantum complexity from glassiness"
         link: "https://wqbm.info/"
         venue: Invited talk, International Workshop on Quantum Boltzmann Machines (2025)
 
