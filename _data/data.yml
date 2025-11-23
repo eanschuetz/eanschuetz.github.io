@@ -118,7 +118,7 @@ publications:
       - title: "Q-CHOP: Quantum constrained Hamiltonian optimization"
         link: "https://arxiv.org/abs/2403.05653"
         authors: M.A. Perlin, R. Shaydulin, ..., <b>E.R. Anschuetz</b>, M. Pistoia, P. Gokhale
-        conference: "arXiv:2403.05653 [quant-ph]"
+        conference: "To be published in ACM Trans. Quantum Comput., arXiv:2403.05653 [quant-ph]"
 
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
         link: "https://arxiv.org/abs/2402.08606"
