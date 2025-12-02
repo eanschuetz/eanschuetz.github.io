@@ -75,6 +75,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Fragmentation is Efficiently Learnable by Quantum Neural Networks"
+        link: "https://arxiv.org/abs/2512.00751"
+        authors: M. Mints, <b>E.R. Anschuetz</b>
+        conference: "arXiv:2512.00751 [quant-ph]"
+
       - title: "Average-case quantum complexity from glassiness"
         link: "https://arxiv.org/abs/2510.08497"
         authors: A. Zlokapa, B.T. Kiani, <b>E.R. Anschuetz</b>
