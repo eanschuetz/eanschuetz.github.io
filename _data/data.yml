@@ -91,9 +91,9 @@ publications:
         conference: "arXiv:2509.14509 [quant-ph]"
 
       - title: "k-Contextuality as a Heuristic for Memory Separations in Learning"
-        link: "https://arxiv.org/abs/2507.11604"
+        link: "https://doi.org/10.1109/QCE65121.2025.00260"
         authors: M.H. Teo, W. Yang, J. Sud, T. Tomesh, F.T. Chong, <b>E.R. Anschuetz</b>
-        conference: <i>IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (2025)
+        conference: <i>IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (IEEE Computer Society, 2025) pp. 2399&ndash;2409
 
       - title: "Optimizing Sparse SYK"
         link: "https://arxiv.org/abs/2506.09037"
@@ -121,9 +121,9 @@ publications:
         conference: Commun. Math. Phys. <b>406</b>, 232 (2025)
 
       - title: "Q-CHOP: Quantum constrained Hamiltonian optimization"
-        link: "https://arxiv.org/abs/2403.05653"
+        link: "https://doi.org/10.1145/3778864"
         authors: M.A. Perlin, R. Shaydulin, ..., <b>E.R. Anschuetz</b>, M. Pistoia, P. Gokhale
-        conference: "To be published in ACM Trans. Quantum Comput., arXiv:2403.05653 [quant-ph]"
+        conference: ACM Trans. Quantum Comput. (2025)
 
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
         link: "https://arxiv.org/abs/2402.08606"
@@ -158,7 +158,7 @@ publications:
       - title: "Training Quantum Boltzmann Machines with Coresets"
         link: "https://doi.org/10.1109/QCE53715.2022.00049"
         authors: J. Viszlai, T. Tomesh, P. Gokhale, <b>E. Anschuetz</b>, F.T. Chong
-        conference: <i>IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (2022)
+        conference: <i>IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (IEEE Computer Society, 2022) pp. 292&ndash;298
 
       - title: "Interpretable Quantum Advantage in Neural Sequence Learning"
         link: "https://doi.org/10.1103/PRXQuantum.4.020338"
