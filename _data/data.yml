@@ -126,9 +126,9 @@ publications:
         conference: ACM Trans. Quantum Comput. (2025)
 
       - title: "Arbitrary Polynomial Separations in Trainable Quantum Machine Learning"
-        link: "https://arxiv.org/abs/2402.08606"
+        link: "https://doi.org/10.22331/q-2026-01-20-1976"
         authors: <b>E.R. Anschuetz</b>, X. Gao
-        conference: "To be published in Quantum, arXiv:2402.08606 [quant-ph]"
+        conference: Quantum <b>10</b>, 1976 (2026)
   
       - title: "Does provable absence of barren plateaus imply classical simulability?"
         link: "https://doi.org/10.1038/s41467-025-63099-6"
