@@ -224,6 +224,10 @@ publications:
 talks:
     title: Talks
     talks:
+      - title: "Quantum Glassiness from Efficient Learning"
+        link: "https://www.tuhh.de/quantum/research/group-seminar"
+        venue: Invited talk, Institute for Quantum Inspired and Quantum Optimization Seminar, Technische Universität Hamburg (2026)
+          
       - title: "Decoded Quantum Interferometry Requires Structure"
         venue: Invited talk, Universal Quantum Computing Seminar, Centre for Quantum Technologies (2026)
 
