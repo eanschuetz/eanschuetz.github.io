@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Eric R. Anschuetz
-    tagline: Burke Fellow at Caltech
+    tagline: Assistant Professor at NUS
     avatar: headshot_100x100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: eans@caltech.edu
+    email: e-ans@nus.edu.sg
     phone:
     website: # do not add http://
     scholar: scholar.google.com/citations?user=dCjnZaUAAAAJ # do not add http://
@@ -51,13 +51,20 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I'm a <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Burke Fellow</a> at Caltech working on the (quantum \|\| classical) algorithmic implications of (quantum \|\| classical) spin glass theory. Some of my past research applied these techniques to quantum machine learning algorithms, which I showed generally fail to train due to a <a href="https://doi.org/10.1038/s41467-022-35364-5" target="_blank">proliferation of poor local minima in their optimization landscapes</a>. Learning why algorithms break has also helped me design <a href="https://doi.org/10.1103/cbqf-d24r" target="_blank">ones</a> <a href="https://doi.org/10.1103/PRXQuantum.4.020338" target="_blank">that</a> <a href="https://openreview.net/forum?id=fv8TTt9srF" target="_blank">don't</a>. I was recently awarded the <a href="https://www.physics.nus.edu.sg/presidential-young-professorship/" target="_blank">Presidential Young Professorship at the National University of Singapore (NUS)</a>, with a joint appointment between the Departments of Physics and Computer Science, and will be starting in the fall of 2026.
+      I'm an <a href="https://burkeinstitute.caltech.edu/people/postdoctoral-fellows" target="_blank">Assistant Professor</a> at the National University of Singapore (NUS) working on the (quantum \|\| classical) algorithmic implications of (quantum \|\| classical) spin glass theory. Some of my past research applied these techniques to quantum machine learning algorithms, which I showed generally fail to train due to a <a href="https://doi.org/10.1038/s41467-022-35364-5" target="_blank">proliferation of poor local minima in their optimization landscapes</a>. Learning why algorithms break has also helped me design <a href="https://doi.org/10.1103/cbqf-d24r" target="_blank">ones</a> <a href="https://doi.org/10.1103/PRXQuantum.4.020338" target="_blank">that</a> <a href="https://openreview.net/forum?id=fv8TTt9srF" target="_blank">don't</a>. I was recently awarded the <a href="https://www.physics.nus.edu.sg/presidential-young-professorship/" target="_blank">Presidential Young Professorship here at NUS</a>, with a joint appointment between the Departments of Physics and Computer Science.
 
       Check out my <a href="https://eanschuetz.github.io/assets/pdfs/Eric_Anschuetz_Curriculum_Vitae.pdf" target="_blank">CV</a> if you want to see more details on some of my highlighted work or just more details about me in general.
 
       Sometimes this page is out of date; check out my <a href="https://scholar.google.com/citations?user=dCjnZaUAAAAJ" target="_blank">Google Scholar</a> or my <a href="https://arxiv.org/a/anschuetz_e_1.html" target="_blank">arXiv</a> page to see what I've been up to recently!
 
+      <i>I'm hiring!</i> If you're looking for a postdoc, Ph.D. position, or research assistantship, all in either physics or computer science, get in touch at <a href="mailto:e-ans@nus.edu.sg" target="_blank">e-ans@nus.edu.sg</a>. For Ph.D. students, the physics application is <a href="https://www.science.nus.edu.sg/graduates/msc-by-research/application-information/" target="_blank">here</a> (due November 15th Singapore time, i.e., November 14th in the US), and the computer science application is <a href="https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/">here</a> (due December 15th Singapore time). Just be sure to mention your name in your application so it gets routed to me.
+
 education:
+    - degree: Burke Fellow
+      university: Caltech
+      time: 2023 - 2026
+      details: |
+        Supervised by John Preskill
     - degree: Ph.D. in Physics
       university: Massachusetts Institute of Technology
       time: 2017 - 2023
@@ -75,6 +82,11 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "The Quantum Overlap Gap Property and Algorithmic Hardness for the Quantum Hypergraph Max-Cut Problem"
+        link: "https://arxiv.org/abs/2609.10838"
+        authors: M. Mints, <b>E.R. Anschuetz</b>
+        conference: "arXiv:2609.10838 [quant-ph]"
+
       - title: "Fragmentation is Efficiently Learnable by Quantum Neural Networks"
         link: "https://arxiv.org/abs/2512.00751"
         authors: M. Mints, <b>E.R. Anschuetz</b>
@@ -147,7 +159,7 @@ publications:
 
       - title: "SupercheQ: Quantum Advantage for Distributed Databases"
         link: "https://arxiv.org/abs/2212.03850"
-        authors: P. Gokhale, <b>E.R. Anschuetz</b>, C. Campbell <i>et al.</i>
+        authors: <b>E.R. Anschuetz</b>, P. Gokhale, B. Tonekaboni <i>et al.</i>
         conference: Tech. Rep. (Infleqtion, 2022)
 
       - title: "Efficient classical algorithms for simulating symmetric quantum systems"
